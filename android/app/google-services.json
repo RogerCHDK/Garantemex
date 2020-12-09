@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "6698344112",
+    "project_id": "garantemex-423c3",
+    "storage_bucket": "garantemex-423c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6698344112:android:e0d181d35ae7062438e575",
+        "android_client_info": {
+          "package_name": "com.example.garantemex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6698344112-i8tln3vbrhtj3tj8pcqa0mh344teijr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.garantemex",
+            "certificate_hash": "5f7671e13c097de8b7bf9290855c1318cb7630b1"
+          }
+        },
+        {
+          "client_id": "6698344112-l9mr8j23kc27ut6um4nn40p6mueib77a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAunZGw_OZ-1koFcLkrsrwxxbS_DfTZMSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6698344112-l9mr8j23kc27ut6um4nn40p6mueib77a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
